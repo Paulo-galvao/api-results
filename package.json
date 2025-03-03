@@ -16,14 +16,15 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon src/app.js"
+    "dev": "nodemon src/app.js",
+    "start": "node src/app.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Paulo-galvao/api-results.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Paulo Galvão",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Paulo-galvao/api-results/issues"
